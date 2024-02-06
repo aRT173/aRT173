@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Artem and I'm a professional procrastinator, from Russia</h2>
+<h2 align="left">Hi 👋! My name is Artem and I'm a professional procrastinator</h2>
 
 ###
 
